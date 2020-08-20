@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[Preview](https://ssergeta.github.io/ssergeta/)
+[Pull Request](https://github.com/ssergeta/ssergeta/pull/1/files)
