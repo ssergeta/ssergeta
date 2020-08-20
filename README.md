@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[Preview](https://ssergeta.github.io/ssergeta/)
-[Pull Request](https://github.com/ssergeta/ssergeta/pull/1/files)
+-[Preview](https://ssergeta.github.io/ssergeta/)
+-[Pull Request](https://github.com/ssergeta/ssergeta/pull/1/files)
